@@ -1,0 +1,10 @@
+# OS & Environment
+.DS_Store
+Thumbs.db
+.directory
+*.tmp
+*.swp
+
+# Nyxuri managed files
+.nyxuri-managed.json
+.nyxniri-managed.json
