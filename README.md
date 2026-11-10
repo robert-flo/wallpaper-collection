@@ -4,21 +4,23 @@ A curated collection of high-resolution desktop & live wallpapers (WebP / JPG / 
 
 ## 概览
 
-- **总壁纸数**: 30 款
-- **静态壁纸**: 26 款（WebP / 高画质 JPG）
-- **动态壁纸**: 4 款（`video/` 目录，MP4 格式）
+- **总壁纸数**: 35 款
+- **静态壁纸**: 29 款（WebP / 高画质 JPG / PNG）
+- **动态壁纸**: 6 款（`video/` 目录，MP4 格式）
 - **规格范围**: 1080P 至 8K 超宽屏（最高 10344x4760）
 
 ## 目录结构
 
 ```text
 wallpaper-collection/
-├── *.webp / *.jpg     # 根目录存放静态高画质壁纸（小写下划线命名）
-└── video/            # 动态视频壁纸（MP4 格式）
+├── *.webp / *.jpg / *.png # 根目录存放静态高画质壁纸
+└── video/                 # 动态视频壁纸（MP4 格式）
     ├── anime_girl.mp4
     ├── anime_rain.mp4
     ├── elaina_live_wallpaper.mp4
-    └── lagtrain.mp4
+    ├── frieren-eyes-beyond-journeys-end-moewalls-com.mp4
+    ├── lagtrain.mp4
+    └── tanjiro-hinokami-kagura-demon-slayer-moewalls-com.mp4
 ```
 
 ## 壁纸分类索引
@@ -53,6 +55,9 @@ wallpaper-collection/
 | `minimalist_utility_pole.webp` | `WEBP` | 2816x1584 | 16:9 | 0.05 MB |
 | `night_vending_machine.webp` | `WEBP` | 5640x2400 | 21:9 超宽 | 0.14 MB |
 | `vending_machine_yotei.webp` | `WEBP` | 4000x2250 | 16:9 | 1.05 MB |
+| `wallhaven-5y3571.jpg` | `JPG` | 3840x2160 | 16:9 | 0.69 MB |
+| `wallhaven-rq6yqm.jpg` | `JPG` | 1920x1080 | 16:9 | 0.37 MB |
+| `wallhaven-rq6yqm.png` | `PNG` | 3840x2160 | 16:9 | 3.30 MB |
 
 ### 科幻 / 抽象 (Sci-Fi & Abstract)
 
@@ -76,7 +81,9 @@ wallpaper-collection/
 | `anime_girl.mp4` | `MP4` | 3840x2160 | 16:9 | 30.83 MB |
 | `anime_rain.mp4` | `MP4` | 3840x2160 | 16:9 | 25.86 MB |
 | `elaina_live_wallpaper.mp4` | `MP4` | 2560x1440 | 16:9 | 26.36 MB |
+| `frieren-eyes-beyond-journeys-end-moewalls-com.mp4` | `MP4` | 1920x1080 | 16:9 | 11.17 MB |
 | `lagtrain.mp4` | `MP4` | 1920x1080 | 16:9 | 25.04 MB |
+| `tanjiro-hinokami-kagura-demon-slayer-moewalls-com.mp4` | `MP4` | 1920x1080 | 16:9 | 13.75 MB |
 
 ## 命名与收录规范
 
