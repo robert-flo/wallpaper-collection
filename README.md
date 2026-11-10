@@ -4,9 +4,9 @@ A curated collection of high-resolution desktop & live wallpapers (WebP / JPG / 
 
 ## 概览
 
-- **总壁纸数**: 29 款
+- **总壁纸数**: 30 款
 - **静态壁纸**: 26 款（WebP / 高画质 JPG）
-- **动态壁纸**: 3 款（`video/` 目录，MP4 格式）
+- **动态壁纸**: 4 款（`video/` 目录，MP4 格式）
 - **规格范围**: 1080P 至 8K 超宽屏（最高 10344x4760）
 
 ## 目录结构
@@ -17,7 +17,8 @@ wallpaper-collection/
 └── video/            # 动态视频壁纸（MP4 格式）
     ├── anime_girl.mp4
     ├── anime_rain.mp4
-    └── elaina_live_wallpaper.mp4
+    ├── elaina_live_wallpaper.mp4
+    └── lagtrain.mp4
 ```
 
 ## 壁纸分类索引
@@ -75,6 +76,7 @@ wallpaper-collection/
 | `anime_girl.mp4` | `MP4` | 3840x2160 | 16:9 | 30.83 MB |
 | `anime_rain.mp4` | `MP4` | 3840x2160 | 16:9 | 25.86 MB |
 | `elaina_live_wallpaper.mp4` | `MP4` | 2560x1440 | 16:9 | 26.36 MB |
+| `lagtrain.mp4` | `MP4` | 1920x1080 | 16:9 | 25.04 MB |
 
 ## 命名与收录规范
 
